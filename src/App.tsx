@@ -13,7 +13,7 @@ export default function Page() {
   const handleYesClick = () => {
     setYesPressed(true);
 
-    const phoneNumber = "94752643275"; // <-- put YOUR WhatsApp number here (no +, no spaces)
+    const phoneNumber = "94763108048"; // <-- put YOUR WhatsApp number here (no +, no spaces)
     const message = encodeURIComponent("Yes!!!");
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
 
@@ -35,7 +35,7 @@ export default function Page() {
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to Aman's ghost",
+      "ok ur talking to Deshith's ghost",
       "please babe",
       ":((((",
       "PRETTY PLEASE",
